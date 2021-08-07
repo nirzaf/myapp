@@ -1,0 +1,15 @@
+E:\Source\cSharpLearning\myapp\bin\Debug\net6.0\myapp.exe
+E:\Source\cSharpLearning\myapp\bin\Debug\net6.0\myapp.deps.json
+E:\Source\cSharpLearning\myapp\bin\Debug\net6.0\myapp.runtimeconfig.json
+E:\Source\cSharpLearning\myapp\bin\Debug\net6.0\myapp.dll
+E:\Source\cSharpLearning\myapp\bin\Debug\net6.0\ref\myapp.dll
+E:\Source\cSharpLearning\myapp\bin\Debug\net6.0\myapp.pdb
+E:\Source\cSharpLearning\myapp\obj\Debug\net6.0\myapp.csproj.AssemblyReference.cache
+E:\Source\cSharpLearning\myapp\obj\Debug\net6.0\myapp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\cSharpLearning\myapp\obj\Debug\net6.0\myapp.AssemblyInfoInputs.cache
+E:\Source\cSharpLearning\myapp\obj\Debug\net6.0\myapp.AssemblyInfo.cs
+E:\Source\cSharpLearning\myapp\obj\Debug\net6.0\myapp.csproj.CoreCompileInputs.cache
+E:\Source\cSharpLearning\myapp\obj\Debug\net6.0\myapp.dll
+E:\Source\cSharpLearning\myapp\obj\Debug\net6.0\ref\myapp.dll
+E:\Source\cSharpLearning\myapp\obj\Debug\net6.0\myapp.pdb
+E:\Source\cSharpLearning\myapp\obj\Debug\net6.0\myapp.genruntimeconfig.cache
