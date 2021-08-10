@@ -7,37 +7,40 @@ namespace myapp
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Enter a word to palindrome or not?");
-            string word = Console.ReadLine();
-            string reversed = IsPalindrome(word);
-            if (word == reversed)
+           //Create multiplication table using for loop
+           for (int i = 1; i <= 10; i++)
             {
-                Console.WriteLine("Palindrome");
-            }
-            else
-            {
-                Console.WriteLine("Not Palindrome");
-            }
-        }
-
-        // Write a program in C# Sharp to check whether a string is a palindrome or not.
-
-        public static string IsPalindrome(string str)
-        {
-            string result = "";
-            for (int i = 0; i < str.Length; i++)
-            {
-                if (str[i] == str[str.Length - 1 - i])
+                for (int j = 1; j <= 10; j++)
                 {
-                    result += str[i];
+                    if (i == 1)
+                    {
+                        if (i * j < 10)
+                        {
+                            Console.Write($" {i * j} ");
+                        }
+                        else
+                        {
+                            Console.Write($"{i * j} ");
+                        }
+                    }
+                    else if (i > 1 && i < 10)
+                    {
+                        if (i * j < 10)
+                        {
+                            Console.Write($" {i * j} ");
+                        }
+                        else
+                        {
+                            Console.Write($"{i * j} ");
+                        }
+                    }
+                    else
+                    {
+                        Console.Write($"{i * j} ");
+                    }
                 }
+                Console.WriteLine();
             }
-            return result;
         }
     }
-
-
-
-
-
 }
